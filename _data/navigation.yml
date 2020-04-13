@@ -56,7 +56,6 @@ docs-zh:
         url:    /docs/en/quick-start
       - title:  Structure
         url:    /docs/en/structure
-      ...
   - title:      Customization
     children:
       - title:  Configuration

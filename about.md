@@ -2,13 +2,8 @@
 layout: article
 header:
   theme: dark
-
-  background: 'linear-gradient(135deg, "#0b77CF", "#1766A1")'
 article_header:
-  type: overlay
-  theme: dark
-  background_color: '#24C5FB'
-  background_image:
+  type: cover
     src: assets/images/background/pic/33.jpg
 
 titles:

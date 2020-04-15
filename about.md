@@ -12,12 +12,12 @@ article_header:
     src: assets/images/background/pic/33.jpg
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About me
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
+  zh-Hans : &ZH_HANS  关于我的个人信息
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS

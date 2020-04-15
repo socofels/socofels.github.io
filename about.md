@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en      : &EN       About mre
+  en      : &EN       About me
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -16,6 +16,7 @@ titles:
   ko      : &KO       소개
   ko-KR   : *KO
 key: page-about
+
 ---
 ## 我的一些联系方式
 - 电话：15084998472

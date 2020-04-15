@@ -1,5 +1,6 @@
 ---
 layout: article
+titles: 关于我的一些个人信息
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
@@ -10,7 +11,7 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: assets/images/background/pic/lulu1.jpg
-titles: 关于我的一些个人信息
+
 key: page-about
 ---
 

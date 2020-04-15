@@ -4,6 +4,7 @@ header:
   theme: dark
 article_header:
   type: cover
+    image:
     src: assets/images/background/pic/33.jpg
 
 titles:

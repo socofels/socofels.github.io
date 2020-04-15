@@ -2,14 +2,14 @@
 layout: article
 header:
   theme: dark
-  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
+
+  background: 'linear-gradient(135deg, "#0b77CF", "#1766A1")'
 article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: assets/images/background/pic/lulu1.jpg
+    src: assets/images/background/pic/33.jpg
 titles:
   # @start locale config
   en      : &EN       About

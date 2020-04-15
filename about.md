@@ -7,7 +7,7 @@ header:
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
+  background_color: '#24C5FB'
   background_image:
     src: assets/images/background/pic/33.jpg
 titles:

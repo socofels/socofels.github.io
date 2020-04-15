@@ -10,6 +10,7 @@ article_header:
   background_color: '#24C5FB'
   background_image:
     src: assets/images/background/pic/33.jpg
+
 titles:
   # @start locale config
   en      : &EN       About me

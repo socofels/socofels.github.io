@@ -7,7 +7,7 @@ aside:
 article_header:
   type: cover
   image:
-    src: assets/images/background/pic/sky0.jpg
+    src: assets/images/background/pic/sky.jpg
 ---
 博客内容。。。。。
 

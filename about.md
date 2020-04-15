@@ -16,7 +16,10 @@ titles:
   ko      : &KO       소개
   ko-KR   : *KO
 key: page-about
-
+article_header:
+  type: cover
+  image:
+    src: assets/images/background/pic/sky.jpg
 ---
 ## 我的一些联系方式
 - 电话：15084998472

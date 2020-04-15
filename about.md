@@ -12,7 +12,7 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: assets/images/background/pic/lulu1.jpg
 
-key: page-about
+
 ---
 
 ## 我的一些联系方式

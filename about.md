@@ -1,9 +1,5 @@
 ---
 layout: article
-article_header:
-  type: cover
-  image:
-    src: assets/images/background/pic/33.jpg
 titles:
   # @start locale config
   en      : &EN       About me

@@ -34,7 +34,7 @@ article_header:
 - 电话：15084998472
 - 邮箱：socofels@163.com
 - 我的GITHUB主页:[https://socofels.github.io/](https://socofels.github.io/)
-- 我的微信
+- 我的微信:
 ![二维码](assets/images/self_inf/we_chat.png)
 ## 我的一些教育情况
 - 2015年毕业于湖南农业大学，环境工程专业

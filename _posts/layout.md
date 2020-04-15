@@ -2,9 +2,12 @@
 layout: article
 title: 标题
 tags: 标签
-key: 关键字
 aside:
   toc: true
+article_header:
+  type: cover
+  image:
+    src: assets/images/background/pic/sky0.jpg
 ---
 博客内容。。。。。
 

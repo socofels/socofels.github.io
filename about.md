@@ -5,7 +5,7 @@ header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header:
-  type: overlay
+  type: cover
   theme: dark
   background_color: '#203028'
   background_image:
@@ -14,7 +14,7 @@ article_header:
 
 
 ---
-
+# 关于我的一些个人信息
 ## 我的一些联系方式
 - 电话：15084998472
 - 邮箱：socofels@163.com

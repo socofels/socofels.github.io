@@ -35,7 +35,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-# 关于我的一些个人信息
+
 ## 我的一些联系方式
 - 电话：15084998472
 - 邮箱：socofels@163.com

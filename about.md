@@ -1,6 +1,9 @@
 ---
 layout: article
-cover: assets/images/background/3.jpg
+article_header:
+  type: cover
+  image:
+    src: assets/images/background/3.jpg
 titles:
   # @start locale config
   en      : &EN       About

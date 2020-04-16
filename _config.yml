@@ -216,17 +216,10 @@ defaults:
       pageview: true
   # 我xmind页面设置
   - scope:
-      path: "_xmind/"
-      type: posts
+      path: "_xmind"
     values:
-      layout: article
-      sharing: true
-      license: true
-      aside:
-        toc: true
-      show_edit_on_github: true
-      show_subscribe: false
-      pageview: true
+      articles:
+        excerpt_type: html
 
 
 ## => Plugins

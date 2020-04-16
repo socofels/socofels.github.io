@@ -1,5 +1,9 @@
 ---
 layout: article
+article_header:
+  type: cover
+  image:
+    src: assets/images/background/pic/sky.jpg
 titles:
   # @start locale config
   en      : &EN       About
@@ -7,7 +11,7 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于我的信息
+  zh-Hans : &ZH_HANS  关于
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
@@ -24,11 +28,6 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
-
-article_header:
-  type: cover
-  image:
-    src: assets/images/background/pic/sky.jpg
 ---
 
 ## 我的一些联系方式

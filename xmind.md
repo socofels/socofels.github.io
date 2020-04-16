@@ -1,5 +1,4 @@
 ---
-
 layout: articles
 title: 思维导图
 articles:
@@ -15,3 +14,7 @@ article_header:
   image:
     src: assets/images/background/pic/sky.jpg
 ---
+ccccccccccccccccccccccc
+asdasdas
+![aa](assets/images/self_inf/boluotou.jpg)
+___c

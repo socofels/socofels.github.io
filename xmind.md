@@ -1,20 +1,9 @@
 ---
 layout: articles
-title: 思维导图
+title: Articles - Item (Cover + Excerpt + Read More + Info)
 articles:
   data_source: site.sample_page
-  type: grid
-
-paths:
-  root    : # title link url, "/" (default)
-  home    : /_xmind/ # home layout url, "/" (default)
-
-article_header:
-  type: cover
-  image:
-    src: assets/images/background/pic/sky.jpg
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
 ---
-ccccccccccccccccccccccc
-asdasdas
-![aa](assets/images/self_inf/boluotou.jpg)
-___c

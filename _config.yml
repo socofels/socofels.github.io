@@ -200,9 +200,6 @@ exclude:
   - /screenshots
   - /test
   - /vendor
-collection:
-  xmind:
-
 
 defaults:
   - scope:
@@ -217,12 +214,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: false
       pageview: true
-  # 这里我额外定义下xmind的collection
-  - scope:
-      path: ""
-      type: xmind
-    values:
-      layout: page
+
 
 ## => Plugins
 ##############################
@@ -231,5 +223,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-

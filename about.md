@@ -36,7 +36,7 @@ key: page-about
 - 我的GITHUB主页:[https://socofels.github.io/](https://socofels.github.io/)
 - 我的微信:
 
-![二维码](assets/images/self_inf/we_chat.png)
+![二维码](assets/images/self_inf/we_chat.png){:width="250px" height="250px"}
 ## 我的一些教育情况
 - 2015年毕业于湖南农业大学，环境工程专业
 ## 我的一些项目成果

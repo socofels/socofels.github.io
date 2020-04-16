@@ -214,12 +214,6 @@ defaults:
       show_edit_on_github: true
       show_subscribe: false
       pageview: true
-  # 我xmind页面设置
-  - scope:
-      path: "_xmind"
-    values:
-      articles:
-        excerpt_type: html
 
 
 ## => Plugins

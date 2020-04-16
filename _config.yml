@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: socofels/socofels.github.io
 repository_tree: master
 
 
@@ -202,7 +202,7 @@ exclude:
   - /vendor
 collection:
   xmind:
-    output: true
+
 
 defaults:
   - scope:
@@ -222,7 +222,7 @@ defaults:
       path: ""
       type: xmind
     values:
-      toc: Xmind
+      layout: page
 
 ## => Plugins
 ##############################

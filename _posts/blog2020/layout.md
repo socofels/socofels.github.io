@@ -13,6 +13,6 @@ article_header:
 
 到这一行是摘要内容显示的地方。
 <!--more-->
-
-
+mathjax: true
+mathjax_autoNumber: true
 ---

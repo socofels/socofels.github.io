@@ -10,7 +10,6 @@ article_header:
   image:
     src: assets/images/background/pic/sky.jpg
 ---
-# 结构化机器学习项目
 ![image](https://socofels.github.io/assets/xmind/xmind_outputs/deep_learning/结构化机器学习项目.png)
 <!--more-->
 ### png下载地址

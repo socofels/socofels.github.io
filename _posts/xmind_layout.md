@@ -16,7 +16,7 @@ article_header:
 ### png下载地址
 <a class="button button--success button--rounded button--lg" href="https://socofels.github.io/assets/xmind/xmind_outputs/deep_learning/结构化机器学习项目.png"><i class="fas fa-download"></i> png格式下载</a>
 ### xmind下载地址
-<a class="button button--success button--rounded button--lg" href="https://socofels.github.io/assets/xmind/xmind_files/DeepLearning/结构化机器学习项目.xmind"><i class="fas fa-download"></i> png格式下载</a>
+<a class="button button--success button--rounded button--lg" href="https://socofels.github.io/assets/xmind/xmind_files/DeepLearning/结构化机器学习项目.xmind"><i class="fas fa-download"></i> xmind格式下载</a>
 
 
 

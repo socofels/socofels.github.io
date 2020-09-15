@@ -39,27 +39,31 @@ ubuntu官网下载系统
 PS:双系统安装需要先安装windows再安装ubuntu，否则windows的引导会覆盖grub2,导致不能选择ubuntu就直接进入windows系统。
 - 开机按F12选择boot模式，选择legacy模式，这样才能看到所有内容。
 
-![](https://socofels.github.io/assets/images/install_system/bootmode.jpg)
+![](https://socofels.github.io/assets/images/install_system/bootmode.jpg){:width="512px"}
+
 - 选择你的U盘
-![](https://socofels.github.io/assets/images/install_system/chooseUpan.jpg)
+
+![](https://socofels.github.io/assets/images/install_system/chooseUpan.jpg){:width="512px"}
+
 - 选择系统，0是win10,2是ubuntu，依次选择win10和ubuntu进行安装。
+![](https://socofels.github.io/assets/images/install_system/choose_system.jpg){:width="512px"}
 ### 安装win10
 - win10安装一般不会有什么问题，按照提示选择自定义安装。
-![win10](https://socofels.github.io/assets/images/install_system/win10.jpg)
+![win10](https://socofels.github.io/assets/images/install_system/win10.jpg){:width="512px"}
 - 分区的时候记得分一块地留给ubuntu。
 ### 安装ubuntu
 - win装好后重启，选择ubuntu
 
-![](https://socofels.github.io/assets/images/install_system/chooseUpan.jpg)
+![](https://socofels.github.io/assets/images/install_system/choose_system.jpg){:width="512px"}
 
-![](https://socofels.github.io/assets/images/install_system/ubuntu_pre.jpg)
-![](https://socofels.github.io/assets/images/install_system/ubuntu1.jpg)
-- 如果安装卡到了这个画面不动了，然后提示你没有找到文件什么的那么请重启电脑，当再次看到这个画面时拔掉U盘再重新插上。
+![](https://socofels.github.io/assets/images/install_system/ubuntu_pre.jpg){:width="512px"}
+![](https://socofels.github.io/assets/images/install_system/ubuntu1.jpg){:width="512px"}
+- 如果安装卡到了这个画面不动了，然后提示你没有找到文件什么的那么请重启电脑，当再次看到这个画面时拔掉U盘立即重新插上。
 - 此时一步一步按提示装ubuntu
 
-![](https://socofels.github.io/assets/images/install_system/ubuntu_1.jpg)
+![](https://socofels.github.io/assets/images/install_system/ubuntu_1.jpg){:width="512px"}
 - 这里记得不要选择安装ubuntu时下载更新，有可能网络原因导致安装很久。
-![](https://socofels.github.io/assets/images/install_system/ubuntu_2.jpg)
+![](https://socofels.github.io/assets/images/install_system/ubuntu_2.jpg){:width="512px"}
 - 选择共存，弹出提示分区留意下没有错就行了。
 - 然后就大工高成，开机时会出现grub2选择菜单,选择想要的系统就行。
 
